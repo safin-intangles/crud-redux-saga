@@ -1,7 +1,7 @@
 import React from "react";
 import { Provider } from "react-redux";
 import store from "./src/redux/store";
-import ItemList from "./src/users/ItemList";
+import ItemList from "./src/items/ItemList";
 import { SafeAreaView, StyleSheet, Text } from "react-native";
 
 if (__DEV__) {
