@@ -23,6 +23,7 @@
     "@types/react": "~19.0.10",
     "reactotron-react-js": "^3.3.16",
     "reactotron-react-native": "^5.1.14",
+    "reactotron-redux": "^3.2.0",
     "typescript": "~5.8.3"
   },
   "private": true
